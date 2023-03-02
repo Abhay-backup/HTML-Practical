@@ -113,6 +113,10 @@ header .login button {
     cursor: pointer;
     
 }
+.cart:hover svg{
+    transform: rotate(-360deg);
+    transition: 0.9s;
+}
 .more:hover svg{
     transform: rotate(-180deg);
     transition: 0.5s;
